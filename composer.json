@@ -1,0 +1,7 @@
+{
+    "name": "rvega/aporia-works-registration",
+    "description": "Library for reading, writing and manipulating CISAC Common Works Registration (CWR) v2.1R7 and v2.2 files.", 
+    "type": "library",
+    "license": "GPLv3",
+    "require": {}
+}
